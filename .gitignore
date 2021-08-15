@@ -1,4 +1,9 @@
 .DS_Store
+Podfile.lock
+
+Pods
+CCCanvas.Plane.OC/Pods
+CCCanvas.Plane.Swift/Pods
 
 # Xcode
 #
